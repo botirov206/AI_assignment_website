@@ -100,9 +100,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [botirovali206@gmail.com](mailto:botirovali206@gmail.com)
 
-Project Link: [https://github.com/yourusername/project-name](https://github.com/yourusername/project-name)
+Project Link: [https://github.com/botirov/AI_assignment_website](https://github.com/botirov206/AI_assignment_website)
 
 ## Acknowledgments 🙏
 
